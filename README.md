@@ -1,7 +1,8 @@
 # Accelerated-and-Refined-VoIP-Spam-Detection
 
-##CNT5410 - COMPUTER AND NETWORK SECURITY
-###Team: 
+CNT5410 - COMPUTER AND NETWORK SECURITY
+
+Team: 
 Praveen Ravula
 Swetha Chowdary Narra
 
